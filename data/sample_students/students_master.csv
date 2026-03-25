@@ -1,0 +1,6 @@
+full_name,date_of_birth,gender,phone,email,parent_phone,district,state,current_class,institution_name,programs,status,attendance_percentage,recent_activity,outcome
+Priya Selvaraj,2005-06-12,Female,9876543210,priya@gmail.com,9876500000,Madurai,Tamil Nadu,B.Sc 2nd Year,Govt College,"Vidhai,Mentorship",active,85,2026-03-20,none
+Arun Kumar,2004-02-10,Male,9123456780,arun@gmail.com,9000000000,Coimbatore,Tamil Nadu,B.E 3rd Year,Private College,Mentorship,active,40,2026-02-01,none
+Selvaraj P,2003-09-05,Male,9988776655,selva@gmail.com,9111111111,Salem,Tamil Nadu,B.Com Final,Govt College,Vidhai,paused,60,2026-01-15,none
+Divya Lakshmi,2006-01-22,Female,9090909090,divya@gmail.com,9222222222,Trichy,Tamil Nadu,Class 12,Govt School,Hostel,active,90,2026-03-25,exam_result
+Karthik R,2002-11-30,Male,9333333333,karthik@gmail.com,9444444444,Chennai,Tamil Nadu,B.Tech Final,Private College,Fellowship,completed,75,2026-02-20,job_placement

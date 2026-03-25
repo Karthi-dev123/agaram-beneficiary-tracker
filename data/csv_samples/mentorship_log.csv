@@ -1,0 +1,3 @@
+name,date_of_birth,gender,phone_number,mail,parent_phone_no,district_name,course,institute,program_type,status,session_attendance,last_interaction,outcome_status
+Selvaraj P,2003-09-05,Male,9988776655,selva@gmail.com,9111111111,Salem,B.Com Final,Govt College,Mentorship,paused,60,2026-01-15,none
+Divya Lakshmi,2006-01-22,Female,9090909090,divya@gmail.com,9222222222,Trichy,Class 12,Govt School,Mentorship,active,90,2026-03-25,exam_result
